@@ -2,12 +2,15 @@
 
 body{
     margin: auto;
-    background-color: black;
+    
+    border-radius: 334px;
     
     color: white;
     font-family: Inter, sans-serif;
     width: 360px;
     height: 4520px;
+    background-color: #fff;
+
     
      
 
@@ -34,7 +37,7 @@ img{
 .theme_yellow{
     background-color: #FEE42A;
     color: #131313;
-    width: 360px;
+    width: 400px;
     height: 1400px;
     
 }
@@ -827,9 +830,9 @@ align-items: center;
 padding: 20px;
 
 position: absolute;
-width: 360px;
+width: 400px;
 height: 62px;
-left: 22px;
+left: 1px;
 top: 1905px;
 
 /* yellow-bg */
@@ -905,3 +908,12 @@ flex: none;
 order: 1;
 flex-grow: 0;
 }
+
+.bg_color{
+    margin-right: -2225px;
+    width: 400px;
+    height: 4380px;
+    background-color: #000;
+}
+
+
